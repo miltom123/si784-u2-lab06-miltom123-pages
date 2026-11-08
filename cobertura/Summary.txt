@@ -1,0 +1,22 @@
+Summary
+  Generated on: 11/08/2026 - 20:20:46
+  Coverage date: 11/08/2026 - 20:18:28 - 11/08/2026 - 20:20:44
+  Parser: MultiReport (6x Cobertura)
+  Assemblies: 1
+  Classes: 1
+  Files: 1
+  Line coverage: 100%
+  Covered lines: 1
+  Uncovered lines: 0
+  Coverable lines: 1
+  Total lines: 70
+  Covered branches: 0
+  Total branches: 0
+  Method coverage: 100% (1 of 1)
+  Full method coverage: 100% (1 of 1)
+  Covered methods: 1
+  Fully covered methods: 1
+  Total methods: 1
+
+UPTSite.Automation                100%
+  UPTSite.Automation.UptPortal    100%

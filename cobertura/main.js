@@ -290,7 +290,7 @@ var assemblies = [
   {
     "name": "UPTSite.Automation",
     "classes": [
-      { "name": "UPTSite.Automation.UptPortal", "rp": "UPTSite.Automation_UptPortal.html", "cl": 1, "ucl": 0, "cal": 1, "tl": 70, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "UPTSite.Automation.UptPortal", "rp": "UPTSite.Automation_UptPortal.html", "cl": 25, "ucl": 3, "cal": 28, "tl": 70, "cb": 1, "tb": 2, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
     ]},
 ];
 

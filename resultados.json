@@ -1,95 +1,95 @@
 {
-  "commit": "c9c744781930f68fa352c7993a11c92128d12b68",
+  "commit": "77bcd981acba9f0b27a1d70d05bd5d0cd2a5214d",
   "tests": [
     {
       "browser": "chromium",
-      "test": "SearchStudentInDirectoryPage",
+      "test": "HasTitle",
       "outcome": "Passed",
-      "duration": "00:00:08.3736554"
-    },
-    {
-      "browser": "chromium",
-      "test": "GetFacultyMember",
-      "outcome": "Passed",
-      "duration": "00:00:10.0057574"
+      "duration": "00:00:08.3217826"
     },
     {
       "browser": "chromium",
       "test": "GetSchoolDirectorName",
       "outcome": "Passed",
-      "duration": "00:00:07.9355265"
-    },
-    {
-      "browser": "chromium",
-      "test": "HasTitle",
-      "outcome": "Passed",
-      "duration": "00:00:07.2735304"
+      "duration": "00:00:09.4537793"
     },
     {
       "browser": "chromium",
       "test": "OpenInstitutionalDirectory",
       "outcome": "Passed",
-      "duration": "00:00:04.9637964"
+      "duration": "00:00:07.8546461"
     },
     {
-      "browser": "firefox",
+      "browser": "chromium",
+      "test": "SearchStudentInDirectoryPage",
+      "outcome": "Passed",
+      "duration": "00:00:12.0896210"
+    },
+    {
+      "browser": "chromium",
       "test": "GetFacultyMember",
       "outcome": "Passed",
-      "duration": "00:00:10.5522962"
+      "duration": "00:00:13.6513452"
     },
     {
       "browser": "firefox",
       "test": "OpenInstitutionalDirectory",
       "outcome": "Passed",
-      "duration": "00:00:05.1200902"
+      "duration": "00:00:06.8748568"
     },
     {
       "browser": "firefox",
       "test": "SearchStudentInDirectoryPage",
       "outcome": "Passed",
-      "duration": "00:00:07.0246793"
+      "duration": "00:00:09.9819714"
     },
     {
       "browser": "firefox",
       "test": "HasTitle",
       "outcome": "Passed",
-      "duration": "00:00:06.9383911"
+      "duration": "00:00:09.5318390"
     },
     {
       "browser": "firefox",
       "test": "GetSchoolDirectorName",
       "outcome": "Passed",
-      "duration": "00:00:08.5104358"
+      "duration": "00:00:10.3001754"
     },
     {
-      "browser": "webkit",
-      "test": "SearchStudentInDirectoryPage",
+      "browser": "firefox",
+      "test": "GetFacultyMember",
       "outcome": "Passed",
-      "duration": "00:00:14.3168164"
-    },
-    {
-      "browser": "webkit",
-      "test": "OpenInstitutionalDirectory",
-      "outcome": "Passed",
-      "duration": "00:00:07.3495232"
-    },
-    {
-      "browser": "webkit",
-      "test": "HasTitle",
-      "outcome": "Passed",
-      "duration": "00:00:10.7320515"
-    },
-    {
-      "browser": "webkit",
-      "test": "GetSchoolDirectorName",
-      "outcome": "Passed",
-      "duration": "00:00:12.0759470"
+      "duration": "00:00:12.2866893"
     },
     {
       "browser": "webkit",
       "test": "GetFacultyMember",
       "outcome": "Passed",
-      "duration": "00:00:16.0486860"
+      "duration": "00:00:19.2537111"
+    },
+    {
+      "browser": "webkit",
+      "test": "GetSchoolDirectorName",
+      "outcome": "Passed",
+      "duration": "00:00:19.2063093"
+    },
+    {
+      "browser": "webkit",
+      "test": "OpenInstitutionalDirectory",
+      "outcome": "Passed",
+      "duration": "00:00:07.8886978"
+    },
+    {
+      "browser": "webkit",
+      "test": "SearchStudentInDirectoryPage",
+      "outcome": "Passed",
+      "duration": "00:00:18.5680005"
+    },
+    {
+      "browser": "webkit",
+      "test": "HasTitle",
+      "outcome": "Passed",
+      "duration": "00:00:09.7351444"
     }
   ]
 }

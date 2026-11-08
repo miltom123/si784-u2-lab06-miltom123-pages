@@ -1,35 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TestRun id="3c9b26f4-767a-4710-8275-cc9a98711c60" name="@runnervmwuk1x 2026-11-08 20:31:10" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
-  <Times creation="2026-11-08T20:31:10.8787915+00:00" queuing="2026-11-08T20:31:10.8787916+00:00" start="2026-11-08T20:30:59.3879130+00:00" finish="2026-11-08T20:32:00.9138284+00:00" />
-  <TestSettings name="default" id="faf55fb7-7836-4582-bdf5-44cf1a272fd0">
-    <Deployment runDeploymentRoot="_runnervmwuk1x_2026-11-08_20_31_10" />
+<TestRun id="f7db4ec8-77a8-45cd-b297-26370dd101cf" name="@runnervmwuk1x 2026-11-08 20:50:42" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2026-11-08T20:50:42.1291864+00:00" queuing="2026-11-08T20:50:42.1291865+00:00" start="2026-11-08T20:50:31.2604526+00:00" finish="2026-11-08T20:51:47.3065446+00:00" />
+  <TestSettings name="default" id="9f55835f-64f5-47d8-b13f-c0d417ab32aa">
+    <Deployment runDeploymentRoot="_runnervmwuk1x_2026-11-08_20_50_42" />
   </TestSettings>
   <Results>
-    <UnitTestResult executionId="3c62fe5a-6403-4432-825d-3ef747e8cf04" testId="f5c286e8-c7d2-1076-f604-ceb5c3185497" testName="SearchStudentInDirectoryPage" computerName="runnervmwuk1x" duration="00:00:14.3168164" startTime="2026-11-08T20:31:22.9252294+00:00" endTime="2026-11-08T20:31:37.2423297+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3c62fe5a-6403-4432-825d-3ef747e8cf04">
+    <UnitTestResult executionId="b1a93c37-1a5e-430d-9905-964749bca23c" testId="b64492b0-15b5-78d5-87d5-39fe9cf53e7d" testName="GetFacultyMember" computerName="runnervmwuk1x" duration="00:00:19.2537111" startTime="2026-11-08T20:51:19.8518015+00:00" endTime="2026-11-08T20:51:39.1060626+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b1a93c37-1a5e-430d-9905-964749bca23c">
       <ResultFiles>
         <ResultFile path="runnervmwuk1x/resultado.png" />
         <ResultFile path="runnervmwuk1x/trace.zip" />
       </ResultFiles>
     </UnitTestResult>
-    <UnitTestResult executionId="45c38484-808c-4cde-a0ca-99693b187811" testId="ded24a79-071d-b00d-3367-97294e163f2d" testName="OpenInstitutionalDirectory" computerName="runnervmwuk1x" duration="00:00:07.3495232" startTime="2026-11-08T20:31:53.2951742+00:00" endTime="2026-11-08T20:32:00.6462527+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="45c38484-808c-4cde-a0ca-99693b187811">
+    <UnitTestResult executionId="f51bb9fe-9e61-4c58-89f7-c32dc7a16279" testId="a1d57334-b1b8-5ffa-b17b-be8bb5e9ea2c" testName="GetSchoolDirectorName" computerName="runnervmwuk1x" duration="00:00:19.2063093" startTime="2026-11-08T20:50:42.0651274+00:00" endTime="2026-11-08T20:51:01.2718392+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f51bb9fe-9e61-4c58-89f7-c32dc7a16279">
       <ResultFiles>
         <ResultFile path="runnervmwuk1x/resultado.png" />
         <ResultFile path="runnervmwuk1x/trace.zip" />
       </ResultFiles>
     </UnitTestResult>
-    <UnitTestResult executionId="1943e1d1-3af6-45a0-b602-6896850d9441" testId="fbb1933c-e6d0-e104-5adc-5ad3357089f7" testName="HasTitle" computerName="runnervmwuk1x" duration="00:00:10.7320515" startTime="2026-11-08T20:31:00.0500663+00:00" endTime="2026-11-08T20:31:10.8030076+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1943e1d1-3af6-45a0-b602-6896850d9441">
+    <UnitTestResult executionId="5e857617-e6a4-469d-8a9c-f896612f4f40" testId="ded24a79-071d-b00d-3367-97294e163f2d" testName="OpenInstitutionalDirectory" computerName="runnervmwuk1x" duration="00:00:07.8886978" startTime="2026-11-08T20:51:39.1092744+00:00" endTime="2026-11-08T20:51:46.9995454+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5e857617-e6a4-469d-8a9c-f896612f4f40">
       <ResultFiles>
         <ResultFile path="runnervmwuk1x/resultado.png" />
         <ResultFile path="runnervmwuk1x/trace.zip" />
       </ResultFiles>
     </UnitTestResult>
-    <UnitTestResult executionId="bd1bc355-d344-4127-a74d-a0fd709a6c2d" testId="a1d57334-b1b8-5ffa-b17b-be8bb5e9ea2c" testName="GetSchoolDirectorName" computerName="runnervmwuk1x" duration="00:00:12.0759470" startTime="2026-11-08T20:31:10.8431314+00:00" endTime="2026-11-08T20:31:22.9207663+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bd1bc355-d344-4127-a74d-a0fd709a6c2d">
+    <UnitTestResult executionId="e8357e1b-c773-4162-a902-1e1ece02f8ba" testId="f5c286e8-c7d2-1076-f604-ceb5c3185497" testName="SearchStudentInDirectoryPage" computerName="runnervmwuk1x" duration="00:00:18.5680005" startTime="2026-11-08T20:51:01.2800894+00:00" endTime="2026-11-08T20:51:19.8483889+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e8357e1b-c773-4162-a902-1e1ece02f8ba">
       <ResultFiles>
         <ResultFile path="runnervmwuk1x/resultado.png" />
         <ResultFile path="runnervmwuk1x/trace.zip" />
       </ResultFiles>
     </UnitTestResult>
-    <UnitTestResult executionId="9e5d3639-8d31-4b4c-bac8-4e10297a950a" testId="b64492b0-15b5-78d5-87d5-39fe9cf53e7d" testName="GetFacultyMember" computerName="runnervmwuk1x" duration="00:00:16.0486860" startTime="2026-11-08T20:31:37.2452172+00:00" endTime="2026-11-08T20:31:53.2941627+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9e5d3639-8d31-4b4c-bac8-4e10297a950a">
+    <UnitTestResult executionId="ab30be34-554a-4fb1-bc3f-b41629b59ba0" testId="fbb1933c-e6d0-e104-5adc-5ad3357089f7" testName="HasTitle" computerName="runnervmwuk1x" duration="00:00:09.7351444" startTime="2026-11-08T20:50:32.2703366+00:00" endTime="2026-11-08T20:50:42.0338598+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ab30be34-554a-4fb1-bc3f-b41629b59ba0">
       <ResultFiles>
         <ResultFile path="runnervmwuk1x/resultado.png" />
         <ResultFile path="runnervmwuk1x/trace.zip" />
@@ -38,32 +38,32 @@
   </Results>
   <TestDefinitions>
     <UnitTest name="GetSchoolDirectorName" storage="/home/runner/work/si784-2026-ii-si784-2026-ii-u2-lab06-miltom123/si784-2026-ii-si784-2026-ii-u2-lab06-miltom123/uptsitetests/bin/release/net8.0/uptsitetests.dll" id="a1d57334-b1b8-5ffa-b17b-be8bb5e9ea2c">
-      <Execution id="bd1bc355-d344-4127-a74d-a0fd709a6c2d" />
+      <Execution id="f51bb9fe-9e61-4c58-89f7-c32dc7a16279" />
       <TestMethod codeBase="/home/runner/work/si784-2026-ii-si784-2026-ii-u2-lab06-miltom123/si784-2026-ii-si784-2026-ii-u2-lab06-miltom123/UPTSiteTests/bin/Release/net8.0/UPTSiteTests.dll" adapterTypeName="executor://mstestadapter/v2" className="UPTSiteTests.UPTSiteTest" name="GetSchoolDirectorName" />
     </UnitTest>
     <UnitTest name="OpenInstitutionalDirectory" storage="/home/runner/work/si784-2026-ii-si784-2026-ii-u2-lab06-miltom123/si784-2026-ii-si784-2026-ii-u2-lab06-miltom123/uptsitetests/bin/release/net8.0/uptsitetests.dll" id="ded24a79-071d-b00d-3367-97294e163f2d">
-      <Execution id="45c38484-808c-4cde-a0ca-99693b187811" />
+      <Execution id="5e857617-e6a4-469d-8a9c-f896612f4f40" />
       <TestMethod codeBase="/home/runner/work/si784-2026-ii-si784-2026-ii-u2-lab06-miltom123/si784-2026-ii-si784-2026-ii-u2-lab06-miltom123/UPTSiteTests/bin/Release/net8.0/UPTSiteTests.dll" adapterTypeName="executor://mstestadapter/v2" className="UPTSiteTests.UPTSiteTest" name="OpenInstitutionalDirectory" />
     </UnitTest>
     <UnitTest name="HasTitle" storage="/home/runner/work/si784-2026-ii-si784-2026-ii-u2-lab06-miltom123/si784-2026-ii-si784-2026-ii-u2-lab06-miltom123/uptsitetests/bin/release/net8.0/uptsitetests.dll" id="fbb1933c-e6d0-e104-5adc-5ad3357089f7">
-      <Execution id="1943e1d1-3af6-45a0-b602-6896850d9441" />
+      <Execution id="ab30be34-554a-4fb1-bc3f-b41629b59ba0" />
       <TestMethod codeBase="/home/runner/work/si784-2026-ii-si784-2026-ii-u2-lab06-miltom123/si784-2026-ii-si784-2026-ii-u2-lab06-miltom123/UPTSiteTests/bin/Release/net8.0/UPTSiteTests.dll" adapterTypeName="executor://mstestadapter/v2" className="UPTSiteTests.UPTSiteTest" name="HasTitle" />
     </UnitTest>
     <UnitTest name="GetFacultyMember" storage="/home/runner/work/si784-2026-ii-si784-2026-ii-u2-lab06-miltom123/si784-2026-ii-si784-2026-ii-u2-lab06-miltom123/uptsitetests/bin/release/net8.0/uptsitetests.dll" id="b64492b0-15b5-78d5-87d5-39fe9cf53e7d">
-      <Execution id="9e5d3639-8d31-4b4c-bac8-4e10297a950a" />
+      <Execution id="b1a93c37-1a5e-430d-9905-964749bca23c" />
       <TestMethod codeBase="/home/runner/work/si784-2026-ii-si784-2026-ii-u2-lab06-miltom123/si784-2026-ii-si784-2026-ii-u2-lab06-miltom123/UPTSiteTests/bin/Release/net8.0/UPTSiteTests.dll" adapterTypeName="executor://mstestadapter/v2" className="UPTSiteTests.UPTSiteTest" name="GetFacultyMember" />
     </UnitTest>
     <UnitTest name="SearchStudentInDirectoryPage" storage="/home/runner/work/si784-2026-ii-si784-2026-ii-u2-lab06-miltom123/si784-2026-ii-si784-2026-ii-u2-lab06-miltom123/uptsitetests/bin/release/net8.0/uptsitetests.dll" id="f5c286e8-c7d2-1076-f604-ceb5c3185497">
-      <Execution id="3c62fe5a-6403-4432-825d-3ef747e8cf04" />
+      <Execution id="e8357e1b-c773-4162-a902-1e1ece02f8ba" />
       <TestMethod codeBase="/home/runner/work/si784-2026-ii-si784-2026-ii-u2-lab06-miltom123/si784-2026-ii-si784-2026-ii-u2-lab06-miltom123/UPTSiteTests/bin/Release/net8.0/UPTSiteTests.dll" adapterTypeName="executor://mstestadapter/v2" className="UPTSiteTests.UPTSiteTest" name="SearchStudentInDirectoryPage" />
     </UnitTest>
   </TestDefinitions>
   <TestEntries>
-    <TestEntry testId="f5c286e8-c7d2-1076-f604-ceb5c3185497" executionId="3c62fe5a-6403-4432-825d-3ef747e8cf04" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
-    <TestEntry testId="ded24a79-071d-b00d-3367-97294e163f2d" executionId="45c38484-808c-4cde-a0ca-99693b187811" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
-    <TestEntry testId="fbb1933c-e6d0-e104-5adc-5ad3357089f7" executionId="1943e1d1-3af6-45a0-b602-6896850d9441" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
-    <TestEntry testId="a1d57334-b1b8-5ffa-b17b-be8bb5e9ea2c" executionId="bd1bc355-d344-4127-a74d-a0fd709a6c2d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
-    <TestEntry testId="b64492b0-15b5-78d5-87d5-39fe9cf53e7d" executionId="9e5d3639-8d31-4b4c-bac8-4e10297a950a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b64492b0-15b5-78d5-87d5-39fe9cf53e7d" executionId="b1a93c37-1a5e-430d-9905-964749bca23c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a1d57334-b1b8-5ffa-b17b-be8bb5e9ea2c" executionId="f51bb9fe-9e61-4c58-89f7-c32dc7a16279" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ded24a79-071d-b00d-3367-97294e163f2d" executionId="5e857617-e6a4-469d-8a9c-f896612f4f40" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f5c286e8-c7d2-1076-f604-ceb5c3185497" executionId="e8357e1b-c773-4162-a902-1e1ece02f8ba" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fbb1933c-e6d0-e104-5adc-5ad3357089f7" executionId="ab30be34-554a-4fb1-bc3f-b41629b59ba0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
   </TestEntries>
   <TestLists>
     <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
